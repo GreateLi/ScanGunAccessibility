@@ -1,2 +1,2 @@
 # ScanGunAccessibility
-get scanner gun from AccessibilityService. only english
+Get scanner gun content from AccessibilityService. English only, not Chinese.
